@@ -1,0 +1,105 @@
+{
+    "@odata.type": "#Chassis.v1_17_0.Chassis",
+    "@odata.id": "/redfish/v1/Chassis/1",
+    "Id": "1",
+    "Name": "Computer System Chassis",
+    "ChassisType": "RackMount",
+    "Manufacturer": "Supermicro",
+    "Model": null,
+    "NetworkAdapters": {
+        "@odata.id": "/redfish/v1/Chassis/1/NetworkAdapters"
+    },
+    "SerialNumber": "CHASSIS_S/N",
+    "PartNumber": "CSE-SE201-R2K07P",
+    "AssetTag": null,
+    "IndicatorLED": "Off",
+    "LocationIndicatorActive": false,
+    "MaxPowerWatts": 1000,
+    "PowerState": "On",
+    "Status": {
+        "State": "Enabled",
+        "Health": "OK",
+        "HealthRollup": "OK"
+    },
+    "PhysicalSecurity": {
+        "IntrusionSensorNumber": null,
+        "IntrusionSensor": null,
+        "IntrusionSensorReArm": null
+    },
+    "Power": {
+        "@odata.id": "/redfish/v1/Chassis/1/Power"
+    },
+    "Sensors": {
+        "@odata.id": "/redfish/v1/Chassis/1/Sensors"
+    },
+    "Thermal": {
+        "@odata.id": "/redfish/v1/Chassis/1/Thermal"
+    },
+    "PowerSubsystem": {
+        "@odata.id": "/redfish/v1/Chassis/1/PowerSubsystem"
+    },
+    "ThermalSubsystem": {
+        "@odata.id": "/redfish/v1/Chassis/1/ThermalSubsystem"
+    },
+    "EnvironmentMetrics": {
+        "@odata.id": "/redfish/v1/Chassis/1/EnvironmentMetrics"
+    },
+    "PCIeDevices": {
+        "@odata.id": "/redfish/v1/Chassis/1/PCIeDevices"
+    },
+    "PCIeSlots": {
+        "@odata.id": "/redfish/v1/Chassis/1/PCIeSlots"
+    },
+    "Memory": {
+        "@odata.id": "/redfish/v1/Systems/1/Memory"
+    },
+    "Links": {
+        "ComputerSystems": [
+            {
+                "@odata.id": "/redfish/v1/Systems/1"
+            }
+        ],
+        "ManagedBy": [
+            {
+                "@odata.id": "/redfish/v1/Managers/1"
+            }
+        ],
+        "ManagersInChassis": [
+            {
+                "@odata.id": "/redfish/v1/Managers/1"
+            }
+        ],
+        "PoweredBy": [
+            {
+                "@odata.id": "/redfish/v1/Chassis/1/PowerSubsystem/PowerSupplies/1"
+            }
+        ]
+    },
+    "Oem": {
+        "Supermicro": {
+            "@odata.type": "#SmcChassisExtensions.v1_0_0.Chassis",
+            "BoardSerialNumber": "          ",
+            "GUID": "44333031-4D53-3CEC-EF35-B92400000000",
+            "BoardID": "0x1c8c",
+            "MultiNode": {
+                "ConfigurationID": "7",
+                "MCUFirmwareVersion": "1.01",
+                "UserDefinedSystemName": "SuperEdge ",
+                "SystemPartNo": "SYS-210SE-31A",
+                "SystemSerialNo": "SYSTEM_S/N",
+                "ChassisPartNo": "CSE-SE201-R2K07P",
+                "ChassisSerialNo": "CHASSIS_S/N",
+                "BackplaneModelName": "AOM-BPN-SE3N",
+                "BackplaneSerialNo": "BACKPLANE_S/N",
+                "BackplaneRevision": "1.01",
+                "TwinType": "ac",
+                "BackplaneLocation": "ff",
+                "SelfID": "0",
+                "Nodes": {
+                    "@odata.id": "/redfish/v1/Chassis/1/Oem/Supermicro/MultiNodes"
+                }
+            }
+        }
+    },
+    "@odata.etag": "8d9548677ee9b15ab809ebaf931395af"
+}

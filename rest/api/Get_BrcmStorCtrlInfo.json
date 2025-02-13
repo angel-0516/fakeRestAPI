@@ -1,0 +1,26 @@
+{
+    "IPMI": {
+        "CtrlInfo": {
+            "Status": "Optimal",
+            "CN": "3808",
+            "PN": "SAS 3808",
+            "SN": "FW-00000000",
+            "PackVer": "52.22.0-4571",
+            "FWVer": "5.220.01-3691",
+            "BiosVer": "7.22.00.0_0x07160300",
+            "BBVer": "",
+            "Battery": "Not Install",
+            "BootMode": "1",
+            "Personality": "0",
+            "Disabled": "0",
+            "OnBoard": "0",
+            "PCIELocation": "2",
+            "PCIESlot": "1",
+            "JBODMode": "1",
+            "Type": "HA-RAID",
+            "DrvType": "M.2",
+            "ModelNumber": "",
+            "VpdBitMap": "0"
+        }
+    }
+}

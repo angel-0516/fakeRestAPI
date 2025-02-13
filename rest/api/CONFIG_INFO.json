@@ -1,0 +1,217 @@
+{
+    "IPMI": {
+        "CONFIG_INFO": {
+            "TOTAL_NUMBER": {
+                "LAN": "1",
+                "USER": "10"
+            },
+            "LAN": {
+                "BMC_IP": "010.135.169.141",
+                "BMC_MAC": "3c-ec-ef-34-98-3d",
+                "BMC_NETMASK": "255.255.000.000",
+                "GATEWAY_IP": "010.135.000.250",
+                "GATEWAY_MAC": "3c-ec-ef-34-98-3d",
+                "VLAN_ID": "0000",
+                "DHCP_TOUT": "0",
+                "DHCP_EN": "1",
+                "RMCP_PORT": "026f"
+            },
+            "USER": [{
+                "NAME": "                ",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "0",
+                "IKVM_KM_EN": "0",
+                "IKVM_KICK_EN": "0",
+                "VUSB_EN": "0",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "ADMIN",
+                "USER_ACCESS": "04",
+                "IKVM_VIDEO_EN": "1",
+                "IKVM_KM_EN": "1",
+                "IKVM_KICK_EN": "1",
+                "VUSB_EN": "1",
+                "STATUS": "1",
+                "LOCKED": "0"
+            }, {
+                "NAME": "test",
+                "USER_ACCESS": "04",
+                "IKVM_VIDEO_EN": "1",
+                "IKVM_KM_EN": "1",
+                "IKVM_KICK_EN": "1",
+                "VUSB_EN": "1",
+                "STATUS": "1",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "0",
+                "IKVM_KM_EN": "0",
+                "IKVM_KICK_EN": "0",
+                "VUSB_EN": "0",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "0",
+                "IKVM_KM_EN": "0",
+                "IKVM_KICK_EN": "0",
+                "VUSB_EN": "0",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "0",
+                "IKVM_KM_EN": "0",
+                "IKVM_KICK_EN": "0",
+                "VUSB_EN": "0",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "0",
+                "IKVM_KM_EN": "0",
+                "IKVM_KICK_EN": "0",
+                "VUSB_EN": "0",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "0",
+                "IKVM_KM_EN": "0",
+                "IKVM_KICK_EN": "0",
+                "VUSB_EN": "0",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "0",
+                "IKVM_KM_EN": "0",
+                "IKVM_KICK_EN": "0",
+                "VUSB_EN": "0",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "0",
+                "IKVM_KM_EN": "0",
+                "IKVM_KICK_EN": "0",
+                "VUSB_EN": "0",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "1",
+                "IKVM_KM_EN": "1",
+                "IKVM_KICK_EN": "1",
+                "VUSB_EN": "1",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "1",
+                "IKVM_KM_EN": "1",
+                "IKVM_KICK_EN": "1",
+                "VUSB_EN": "1",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "1",
+                "IKVM_KM_EN": "1",
+                "IKVM_KICK_EN": "1",
+                "VUSB_EN": "1",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "1",
+                "IKVM_KM_EN": "1",
+                "IKVM_KICK_EN": "1",
+                "VUSB_EN": "1",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "1",
+                "IKVM_KM_EN": "1",
+                "IKVM_KICK_EN": "1",
+                "VUSB_EN": "1",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }, {
+                "NAME": "",
+                "USER_ACCESS": "00",
+                "IKVM_VIDEO_EN": "1",
+                "IKVM_KM_EN": "1",
+                "IKVM_KICK_EN": "1",
+                "VUSB_EN": "1",
+                "STATUS": "0",
+                "LOCKED": "0"
+            }],
+            "SERVICE": {
+                "DNS_ADDR": "000.000.000.000",
+                "ALERT_EN": "0",
+                "SMTP_SERVER": " ",
+                "SMTP_PORT": "587",
+                "MAIL_ADDR": "0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;",
+                "MAIL_USR": " ",
+                "MAIL_PWD": " ",
+                "SMTP_SSL": "0"
+            },
+            "LDAP": {
+                "LDAP_SSL": "0",
+                "LDAP_IP": "",
+                "LDAP_EN": "0",
+                "Encryption_EN": "0",
+                "TIMEOUT": "00",
+                "LDAP_PORT": "00389",
+                "BASE_DN": " ",
+                "BINDDN": " "
+            },
+            "DNS": {
+                "DNS_SERVER": "10.135.0.253"
+            },
+            "DNS2": {
+                "DNS_SERVER2": ""
+            },
+            "LAN_IF": {
+                "INTERFACE": "2",
+                "SHARE_INTERFACE": "0",
+                "SHARE_INTERFACE_PRESENT": "0",
+                "SHARE_INTERFACE_AUTO": "1"
+            },
+            "HOSTNAME": {
+                "NAME": ""
+            },
+            "DHCP6C": {
+                "DUID": "0E 00 00 01 00 01 2C 9B 73 0A 3C EC EF 34 98 3D "
+            },
+            "LINK_INFO": {
+                "MII_LINK_CONF": "0",
+                "MII_AUTO_NEGOTIATION": "1",
+                "MII_DUPLEX": "1",
+                "MII_SPEED": "2",
+                "MII_OPERSTATE": "1",
+                "MII_LINK_SPEED_CAP": "89",
+                "NCSI_AUTO_NEGOTIATION": "8",
+                "NCSI_SPEED_AND_DUPLEX": "0",
+                "NCSI_OPERSTATE": "0",
+                "DEV_IF_MODE": "2",
+                "BOND0_PORT": "0"
+            }
+        }
+    }
+}

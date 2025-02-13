@@ -1,0 +1,35 @@
+{
+    "IPMI": {
+        "PSInfo": {
+            "at_w_PSTimeoutValue": "0",
+            "at_b_PSTimeoutEnable": "0",
+            "BBP_TIMEOUT_VALUE": "0",
+            "TPW": "0",
+            "NPR": "0",
+            "ARR": "0",
+            "PCO": "199",
+            "PSItem": [{
+                "a_b_PS_Status_I2C": "1",
+                "IsPowerSupply": "1",
+                "IsBBP": "0",
+                "acInVoltage": "116 (V)",
+                "acInCurrent": "1.890 (A)",
+                "dc12OutVoltage": "12.1 (V)",
+                "dc12OutCurrent": "16.406 (A)",
+                "temp1": "34 C / 93 F",
+                "temp2": "51 C / 123 F",
+                "fan1": "6656 RPM",
+                "fan2": "5632 RPM",
+                "dcOutPower": "199 (W)",
+                "acInPower": "219 (W)",
+                "maxPower": "1000 (W)",
+                "PSname": "P2K5ACJ24ZB0034",
+                "PSpartname": "PWS-2K05A-1R"
+            }, {
+                "a_b_PS_Status_I2C": "ff",
+                "IsPowerSupply": "0",
+                "IsBBP": "0"
+            }]
+        }
+    }
+}

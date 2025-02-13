@@ -1,0 +1,8 @@
+{
+    "IPMI": {
+        "BrcmStorCtrlAttr": {
+            "ctrl_found_num": "1",
+            "max_api_row_size": "32"
+        }
+    }
+}

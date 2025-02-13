@@ -1,0 +1,11 @@
+{
+    "IPMI": {
+        "DDNS": {
+            "enable": "false",
+            "dns_server": "0.0.0.0",
+            "enable_auth": "false.0",
+            "keyname": "ddns.key",
+            "hostname": ""
+        }
+    }
+}

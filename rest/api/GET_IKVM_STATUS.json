@@ -1,0 +1,8 @@
+{
+    "IPMI": {
+        "IKVMSTATUS": {
+            "WEBIKVMSTATUS": "0",
+            "IKVMINTERFACE": "1"
+        }
+    }
+}

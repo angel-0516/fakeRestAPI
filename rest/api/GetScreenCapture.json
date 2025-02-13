@@ -1,0 +1,15 @@
+{
+    "IPMI": {
+        "CRASH": {
+            "STATUS": "NULL"
+        },
+        "BOOT": {
+            "STATUS": "NULL"
+        },
+        "CAPCONF": {
+            "ENABLE": "0",
+            "OPTION": "0",
+            "DURATION": "0"
+        }
+    }
+}

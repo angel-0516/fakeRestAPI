@@ -1,0 +1,7 @@
+{
+    "IPMI": {
+        "STORAGE_HEALTH": {
+            "Status": "1"
+        }
+    }
+}

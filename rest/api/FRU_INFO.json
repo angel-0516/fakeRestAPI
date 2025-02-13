@@ -1,0 +1,32 @@
+{
+    "IPMI": {
+        "FRU_INFO": {
+            "RES": "1",
+            "DEVICE": {
+                "ID": "0"
+            },
+            "CHASSIS": {
+                "TYPE": "0",
+                "PART_NUM": "CSE-SE201-R2K07P",
+                "SERIAL_NUM": "CHASSIS_S/N"
+            },
+            "BOARD": {
+                "LAN": "0",
+                "MFG_DATE": "1996/01/01 00:00:00",
+                "PROD_NAME": "",
+                "MFC_NAME": "",
+                "SERIAL_NUM": "",
+                "PART_NUM": ""
+            },
+            "PRODUCT": {
+                "LAN": "0",
+                "MFC_NAME": "",
+                "PROD_NAME": "",
+                "PART_NUM": "",
+                "VERSION": "",
+                "SERIAL_NUM": "",
+                "ASSET_TAG": ""
+            }
+        }
+    }
+}

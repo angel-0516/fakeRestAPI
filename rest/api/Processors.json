@@ -1,0 +1,49 @@
+{
+    "@odata.type": "#ProcessorCollection.ProcessorCollection",
+    "@odata.id": "/redfish/v1/Systems/1/Processors",
+    "Name": "Processors Collection",
+    "Description": "Processors Collection",
+    "Members@odata.count": 1,
+    "Members": [
+        {
+            "@odata.type": "#Processor.v1_10_0.Processor",
+            "@odata.id": "/redfish/v1/Systems/1/Processors/1",
+            "Id": "1",
+            "Name": "Processor",
+            "InstructionSet": "x86-64",
+            "Manufacturer": "Intel(R) Corporation",
+            "PartNumber": null,
+            "SerialNumber": null,
+            "MaxSpeedMHz": 4000,
+            "OperatingSpeedMHz": 1800,
+            "MaxTDPWatts": 125,
+            "Model": "Intel(R) Xeon(R) Bronze 3408U",
+            "Version": "Intel(R) Xeon(R) Bronze 3408U",
+            "ProcessorArchitecture": "x86",
+            "ProcessorType": "CPU",
+            "Socket": "CPU1",
+            "TotalCores": 8,
+            "TotalThreads": 8,
+            "Location": {
+                "PartLocation": {
+                    "ServiceLabel": "CPU 1",
+                    "LocationType": "Socket",
+                    "LocationOrdinalValue": 0
+                }
+            },
+            "ProcessorId": {
+                "EffectiveFamily": "0x6",
+                "EffectiveModel": "0x8F",
+                "IdentificationRegisters": "0x20555043000806F7",
+                "Step": "0x7",
+                "VendorId": "GenuineIntel",
+                "MicrocodeInfo": "0x2B0004D0"
+            },
+            "Status": {
+                "State": "Enabled",
+                "Health": "OK"
+            }
+        }
+    ],
+    "@odata.etag": "\"246c5d8ec13768f76b6830a1e2daf36c\""
+}

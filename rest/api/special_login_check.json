@@ -1,0 +1,7 @@
+{
+    "IPMI": {
+        "Check": {
+            "special_login": "0"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@odata.type": "#Chassis.v1_17_0.Chassis",
+    "@odata.id": "/redfish/v1/Chassis/UBB_1",
+    "Id": "UBB_1",
+    "Name": "GPU Baseboard",
+    "ChassisType": "Zone",
+    "Model": "HGX_H100",
+    "Manufacturer": "NVIDIA",
+    "PartNumber": "935-24287-0000-000",
+    "SerialNumber": "1663723651754",
+    "Oem": {},
+    "@odata.etag": "191af4db48a5e6f2e20ec424c4700e48"
+}

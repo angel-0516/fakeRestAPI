@@ -1,0 +1,25 @@
+{
+    "IPMI": {
+        "HDD": {
+            "Slot": {
+                "max_slot": "6"
+            },
+            "TYPE": {
+                "type0": "-1",
+                "type1": "-1",
+                "type2": "1",
+                "type3": "-1",
+                "type4": "-1",
+                "type5": "-1"
+            },
+            "STATUS": {
+                "status0": "-2",
+                "status1": "-2",
+                "status2": "0",
+                "status3": "-2",
+                "status4": "-2",
+                "status5": "-2"
+            }
+        }
+    }
+}

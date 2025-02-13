@@ -1,0 +1,35 @@
+{
+    "@odata.type": "#SmcNode.v1_0_0.Node",
+    "@odata.id": "/redfish/v1/Chassis/1/Oem/Supermicro/MultiNodes/NodeB",
+    "Id": "NodeB",
+    "Name": "NodeB",
+    "UID": "OFF",
+    "BoardPartNumber": null,
+    "BoardSerialNumber": null,
+    "PowerStatus": "ON",
+    "IPv4Address": "10.135.176.69",
+    "IPv6Address": "::",
+    "DCOutputPower": 163,
+    "OutputCurrent": 134,
+    "BIOSVersion": "1.3",
+    "CPLDVersion": "f2.72.0a",
+    "BMCVersion": "09.89.14",
+    "BMCMAC": "3c:ec:ef:35:b7:27",
+    "POSTCODE": "ff",
+    "MaxPower": 600,
+    "Temperatures": [
+        {
+            "Name": "CPU",
+            "ReadingCelsius": 101
+        },
+        {
+            "Name": "System",
+            "ReadingCelsius": 34
+        }
+    ],
+    "Status": {
+        "State": "Enabled",
+        "Health": "OK"
+    },
+    "@odata.etag": "fc0b56a6e89c18fc9562557f3d944384"
+}

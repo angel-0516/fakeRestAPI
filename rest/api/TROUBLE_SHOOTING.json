@@ -1,0 +1,12 @@
+{
+    "IPMI": {
+        "TROUBLE_SHOOTING": {
+            "bmctype": "3",
+            "systype": "9",
+            "type": "0",
+            "status": "0",
+            "autoreset": "1",
+            "ierrdetect": "1"
+        }
+    }
+}

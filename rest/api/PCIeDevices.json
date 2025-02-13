@@ -1,0 +1,8 @@
+{
+    "@odata.type": "#PCIeDeviceCollection.PCIeDeviceCollection",
+    "@odata.id": "/redfish/v1/Chassis/1/PCIeDevices",
+    "Name": "PCIe Device Collection",
+    "Members@odata.count": 0,
+    "Members": [],
+    "@odata.etag": "\"1a06aaccb02cdf4ebbbfdcc907c69219\""
+}

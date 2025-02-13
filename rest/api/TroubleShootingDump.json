@@ -1,0 +1,8 @@
+{
+    "@odata.type": "#Dump.v1_0_0.Dump",
+    "@odata.id": "/redfish/v1/Oem/Supermicro/DumpService/Dumps/TroubleShooting",
+    "Id": "TroubleShooting",
+    "Name": "TroubleShootingDump",
+    "Description": "Supermicro Trouble Shooting Dump Service",
+    "@odata.etag": "f57ae8c58b1c1a28b0f60ca9f0efdc34"
+}

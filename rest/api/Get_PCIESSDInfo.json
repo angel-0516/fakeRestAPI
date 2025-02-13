@@ -1,0 +1,151 @@
+{
+    "IPMI": {
+        "FwInfo": {
+            "NodeModule": {
+                "psPower": "223",
+                "psCurrent": "1972",
+                "nNODE_Status": "1",
+                "nNNODE": "7",
+                "nMYID": "0",
+                "nMCUFWVer": "1.01",
+                "nFatTwin_bp_location": "ff",
+                "nUsrDefSysName": "SuperEdge ",
+                "nSysName": "SYS-210SE-31A",
+                "nSysSerialNo": "SYSTEM_S/N",
+                "nBPID": "0",
+                "nBPRevision": "1.01",
+                "nChaName": "CSE-SE201-R2K07P",
+                "nChaSerialNo": "CHASSIS_S/N",
+                "nBPModelName": "AOM-BPN-SE3N",
+                "nBPModelSerialNo": "BACKPLANE_S/N",
+                "TwinType": "ac",
+                "TPWC": "411"
+            }
+        },
+        "SSDInfo": [{
+            "cardPresent": "0",
+            "AOC_Num": "0",
+            "Type": "0",
+            "MaxSlotNum": "0",
+            "GroupBitmap": "0",
+            "numSSD": [{
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }, {
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }, {
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }, {
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }]
+        }, {
+            "cardPresent": "0",
+            "AOC_Num": "0",
+            "Type": "0",
+            "MaxSlotNum": "0",
+            "GroupBitmap": "0",
+            "numSSD": [{
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }, {
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }, {
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }, {
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }]
+        }, {
+            "cardPresent": "0",
+            "AOC_Num": "0",
+            "Type": "0",
+            "MaxSlotNum": "0",
+            "GroupBitmap": "0",
+            "numSSD": [{
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }, {
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }, {
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }, {
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }]
+        }, {
+            "cardPresent": "0",
+            "AOC_Num": "0",
+            "Type": "0",
+            "MaxSlotNum": "0",
+            "GroupBitmap": "0",
+            "numSSD": [{
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }, {
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }, {
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }, {
+                "PresentBitmap": "0",
+                "SaveToRemoveBitmap": "0",
+                "ModeBitmap": "0",
+                "FwVerDate": "00 00",
+                "MaxSlotNumPerGroup": "0"
+            }]
+        }]
+    }
+}

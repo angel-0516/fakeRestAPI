@@ -1,0 +1,16 @@
+{
+    "IPMI": {
+        "GENERIC_INFO": {
+            "BMC_IP": "10.135.169.141",
+            "BMC_MAC": "3c:ec:ef:e3:d8:07",
+            "WEB_VERSION": "1.1",
+            "IPMIFW_TAG": "BL_SUPERMICRO_X7SB3_2023-09-06 1",
+            "IPMIFW_VERSION": "09.89.13 dbgs",
+            "IPMIFW_BLDTIME": "09/06/2023",
+            "SESSION_TIMEOUT": "1e",
+            "SDR_VERSION": "00.00",
+            "FRU_VERSION": "00.00",
+            "KERNEL_VERSION": "5.4.62"
+        }
+    }
+}
